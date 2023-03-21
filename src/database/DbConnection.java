@@ -35,4 +35,7 @@ public class DbConnection {
     public static void main(String[] args) {
         new DbConnection();
     }
+    public static void Hola() {
+    	
+    }
 }
